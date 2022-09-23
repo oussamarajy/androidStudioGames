@@ -47,7 +47,7 @@ public class Rebot extends AppCompatActivity {
     private static final float GESTURE_THRESHOLD_DP = 16.0f;
 
 
-        int cc;
+        int a;
         int b;
     int pos;
 
